@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b1de8ee-6e03-42f4-9977-0fee8f5cc879" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/src/main/java/com/luv2code/springboot/thymeleafdemo/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/src/main/resources/templates/employees/employee-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/src/main/resources/templates/employees/list-employees.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-spring-boot-jpa-advanced-mappings/01-jpa-one-to-one-uni/src/main/java/com/hano/cruddemo/dao/AppDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-spring-boot-jpa-advanced-mappings/01-jpa-one-to-one-uni/src/main/java/com/hano/cruddemo/dao/AppDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-spring-boot-jpa-advanced-mappings/01-jpa-one-to-one-uni/src/main/java/com/hano/cruddemo/entity/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-spring-boot-jpa-advanced-mappings/01-jpa-one-to-one-uni/src/main/java/com/hano/cruddemo/entity/InstructorDetail.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hano0709"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hano0709/springboot-learn.git",
+    "accountId": "9e138478-3e69-4858-8c5d-cd77998ae244"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="38VXrEAIx4Aeus7Y4Y4s6Ls74tE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hano.varghese@sarvatra.in/springboot-learn/04-spring-boot-rest-crud",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1de8ee-6e03-42f4-9977-0fee8f5cc879" name="Changes" comment="" />
+      <created>1768885908579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768885908579</updated>
+      <workItem from="1768885909605" duration="1901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
